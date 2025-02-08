@@ -100,7 +100,7 @@ nav,
     margin-bottom: 3rem;
 }
 
-.home-1 button,
+.home-1 a,
 .all-contact-input button {
     background-color: #cd85f7;
     color: white;
@@ -112,7 +112,7 @@ nav,
 
 }
 
-.home-1 button:hover,
+.home-1 a:hover,
 .home-links a i:hover {
     background-color: white;
     color: #cd85f7;
