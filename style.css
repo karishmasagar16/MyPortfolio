@@ -225,7 +225,7 @@ span {
 .project-card-info {
     background: transparent;
     padding: 0.2rem;
-    font-size: 0.4rem;
+    font-size: 0.2rem;
 }
 
 .project-card-body a {
@@ -233,9 +233,9 @@ span {
     padding: 0.2rem 0.1rem;
     color: #dba8f9;
     width: 3rem;
-    margin-top: 0.2rem;
+    margin-top: 0.1rem;
     border-radius: 3px 10px 3px 10px;
-    font-size: 0.5rem;
+    font-size: 0.4rem;
     background: transparent;
     box-shadow: 0 0 6px white;
     display:flex;
