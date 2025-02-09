@@ -100,7 +100,7 @@ nav,
     margin-bottom: 3rem;
 }
 
-.home-1 a,
+.home-1 #home-1-cv,
 .all-contact-input button {
     background-color: #cd85f7;
     color: white;
@@ -108,11 +108,11 @@ nav,
     padding: 0.5rem 3rem;
     font-size: 1.2rem;
     margin-right: 1rem;
-
+    text-decoration: none;
 
 }
 
-.home-1 a:hover,
+.home-1 #home-1-cv:hover,
 .home-links a i:hover {
     background-color: white;
     color: #cd85f7;
