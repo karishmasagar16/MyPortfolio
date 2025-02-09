@@ -224,18 +224,18 @@ span {
 .project-card-title,
 .project-card-info {
     background: transparent;
-    padding: 0.6rem;
-    font-size: 0.6rem;
+    padding: 0.2rem;
+    font-size: 0.4rem;
 }
 
 .project-card-body a {
     text-decoration: none;
-    padding: 0.1rem ;
+    padding: 0.2rem 0.1rem;
     color: #dba8f9;
-    width: 5rem;
+    width: 3rem;
+    margin-top: 0.2rem;
     border-radius: 3px 10px 3px 10px;
-    margin-left: 0.5rem;
-    font-size: 0.7rem;
+    font-size: 0.5rem;
     background: transparent;
     box-shadow: 0 0 6px white;
     display:flex;
